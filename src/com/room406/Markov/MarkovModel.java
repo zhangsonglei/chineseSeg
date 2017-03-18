@@ -11,8 +11,8 @@ import com.room406.utils.GetChineseNum;
 
 public class MarkovModel {
 	
-	
-	/* 
+	//强无敌哥	
+/* 
 	* countMatrixA : 
 	 *   ALL B M E S 
 	 * B *   * * * * 
